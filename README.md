@@ -4,4 +4,4 @@
 - 📚 I’m currently a student at Old Dominion University studying ~ Computer Science ~
 - 📈 I’m looking to collaborate with others, and learn as much as I can in order to become 
 - the best software engineer I can be. 
-- 📫 How to reach me ... via email - krisnorman2@yahoo.com
+- 📫 How to reach me ... via email - kristoferjnorman@gmail.com
