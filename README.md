@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kristofer Norman ! It's nice to meet you. 
-- 👀 I’m interested in learning more about tech everyday, as well as connecting with others
-- to solve real world problems!
-- 📚 I have earned my A.S degree, and currently am persuing my B.S in Computer Science.
+- 📚 I have earned my A.S degree, and currently am persuing my B.S in Computer Science at Regent University.
 - 📈 I’m looking to collaborate with others, and learn as much as I can in order to become 
 - the best software engineer I can be. 
 - 📫 How to reach me ... via email - kristoferjnorman@gmail.com
